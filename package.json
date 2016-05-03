@@ -1,0 +1,15 @@
+{
+  "name": "awesome-leftpad",
+  "version": "9000.0.1",
+  "description": "A better way to pad strings",
+  "main": "lib/awesome-leftpad.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alex Ives <alex@ives.mn>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
